@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+    <string name="menu_setting">menu_setting</string>
+    <string name="rating1">Rating :\u0020</string>
+    <string name="rating2">\u0020/ 100</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="description">Description</string>
+    <string name="popularity">Popularity</string>
+    <string name="release_date">Release Date</string>
+    <string name="delete">Delete</string>
+    <string name="fav_movie">Favorite Movies</string>
+    <string name="fav_tv">Favorite TV Shows</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="delete_from_favorite">Delete From Favorite</string>
+    <string name="added">Added To Favorite</string>
+    <string name="deleted">Deleted From Favorite</string>
+    <string name="empty">Data Cannot Displayed</string>
+    <string name="search">search_menu</string>
+    <string name="search_hint">Enter Keyword</string>
+    <string name="title_example" translatable="false">Avengers: Infinity War</string>
+    <string name="desc_example" translatable="false">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string name="director_example" translatable="false">By : Joe and Anthony Russo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="appwidget_text" translatable="false">MOVIE FAVORITE</string>
+    <string name="empty_text" translatable="false">NO DATA</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+</resources>

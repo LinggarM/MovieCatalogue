@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MovieCatalogue5</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="menu_setting">menu_setting</string>
+    <string name="rating1">Rating :\u0020</string>
+    <string name="rating2">\u0020/ 100</string>
+    <string name="movie_image">Gambar Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="popularity">Popularitas</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="delete">Hapus</string>
+    <string name="fav_movie">Film Favorit</string>
+    <string name="fav_tv">Serial TV Favorit</string>
+    <string name="add_to_favorite">Tambah Ke Favorit</string>
+    <string name="delete_from_favorite">Hapus Dari Favorit</string>
+    <string name="added">Ditambahkan Ke Favorit</string>
+    <string name="deleted">Terhapus Dari Favorit</string>
+    <string name="empty">Data Tidak Dapat Ditampilkan</string>
+    <string name="search">search_menu</string>
+    <string name="search_hint">Masukkan Kata Kunci</string>
+    <string name="setting">Pengaturan Pengingat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> MovieCatalogue5 </string>
+    <string name = "tab_text_1"> Films </string>
+    <string name = "tab_text_2"> Émissions télévisées </string>
+    <string name = "menu_setting"> menu_setting </string>
+    <string name = "rating1"> Notation :\u0020</string>
+    <string name = "rating2">\u0020/ 100 </string>
+    <string name = "movie_image"> Image du film </string>
+    <string name = "description"> Description </string>
+    <string name = "popularity"> Popularité </string>
+    <string name = "release_date"> Date de publication </string>
+    <string name = "delete">Effacer</string>
+    <string name="fav_movie">Films préférés</string>
+    <string name="fav_tv">Émissions de télé préférées</string>
+    <string name="add_to_favorite">Ajouter aux Favoris</string>
+    <string name="delete_from_favorite">Supprimer du favori</string>
+    <string name="added">Ajouté aux favoris</string>
+    <string name="deleted">Supprimé du favori</string>
+    <string name="empty">Les données ne peuvent pas être affichées</string>
+    <string name="search">search_menu</string>
+    <string name="search_hint">Entrez un mot-clef</string>
+    <string name="setting">Réglage Reminder</string>
+</resources>
