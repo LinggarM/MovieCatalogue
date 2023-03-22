@@ -1,7 +1,7 @@
 # MovieCatalogue
 
 ## About The Project
-This is an android application that made for the final project submission for **"Belajar Fundamental Aplikasi Android" (Android Fundamentals)** course on Dicoding (2019). This application shows a list of **Movies & TV Shows** that currently on Cinema, along with their information for each of the Movie or TV Show. This app also has various other features like adding Movies or TV Shows into Favorite Lists, Search a Movie or TV Shows from query, and Change Language.
+This is an android application that made for the final project submission of **"Belajar Fundamental Aplikasi Android" (Android Fundamentals)** course on Dicoding (2019). This application shows a list of **Movies & TV Shows** that currently on Cinema, along with their information for each of the Movie or TV Show. This app also has various other features like adding Movies or TV Shows into Favorite Lists, Search a Movie or TV Shows from query, and Change Language.
 
 ## Screenshots
 Dashboard (Movies) | Detail Page (Movies) | Dashboard (TV Shows) | Detail Page (TV Shows)
