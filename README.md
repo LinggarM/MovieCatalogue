@@ -10,7 +10,7 @@ Dashboard (Movies) | Detail Page (Movies) | Dashboard (TV Shows) | Detail Page (
 Favorite Movie | Detail Favorite (Movies) | Favorite TV Shows | Detail Favorite (TV Shows)
 ![Screenshot 1](Screenshots/Screenshot_20230323-022407.jpg)  |  ![Screenshot 2](Screenshots/Screenshot_20230323-022420.jpg)  |  ![Screenshot 3](Screenshots/Screenshot_20230323-022622.jpg)  |  ![Screenshot 4](Screenshots/Screenshot_20230323-022636.jpg)
 Search Result (Query: "Black Panther") | Reminder Setting | Widget in Homescreen
-![Screenshot 1](Screenshots/Screenshot_20230323-022059.jpg)  |  ![Screenshot 2](Screenshots/Screenshot_20230323-023620.jpg)  |  ![Screenshot 3](Screenshots/Screenshot_20230323-023604.jpg)
+![Screenshot 1](Screenshots/Screenshot_20230323-022059.jpg)  |  ![Screenshot 2](Screenshots/Screenshot_20230323-023620.jpg)  |  ![Screenshot 3](Screenshots/Screenshot_widget.jpg)
 
 ## Features
 * Popular Movies & TV Shows that currently on Cinema
