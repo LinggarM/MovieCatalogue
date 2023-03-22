@@ -21,6 +21,7 @@ Search Result (Query: "Black Panther") | Reminder Setting | Widget in Homescreen
 * Reminder/ Daily Movie Notification (Note: Reminder is the only feature that i haven't completed to be able to get the certificate)
 
 ## Technology Used
+* Android Studio
 * Java Programming Language
 * Object-oriented Programming
 * API from [The Movie Database (TMDB)](http://api.themoviedb.org/)
