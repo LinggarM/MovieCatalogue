@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Linggar/PROGRAMMING/2. MOBILE PROGRAMMING/ANDROID/Projects/AndroidStudioProjects/5/MovieCatalogue5/app/src/main/res/layout/item_list.xml" value="0.19635416666666666" />
+        <entry key="..\:/Linggar/PROGRAMMING/2. MOBILE PROGRAMMING/ANDROID/Projects/AndroidStudioProjects/5/MovieCatalogue5/app/src/main/res/layout/my_stack_widget.xml" value="0.19635416666666666" />
+        <entry key="..\:/Linggar/PROGRAMMING/2. MOBILE PROGRAMMING/ANDROID/Projects/AndroidStudioProjects/5/MovieCatalogue5/app/src/main/res/layout/widget_item.xml" value="0.19635416666666666" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
