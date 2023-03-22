@@ -15,7 +15,7 @@ Search Result (Query: "Black Panther") | Reminder Setting | Widget in Homescreen
 ## Features
 * Popular Movies & TV Shows that currently on Cinema
 * Favorite Movies & Favorite TV Shows Lists (Add & Delete Favourite Movies & TV Shows)
-* Change the Language
+* Change the Language (Localization)
 * Search a Movie or TV Shows by Keywords
 * Add Widget on Phone Homescreen
 * Reminder/ Daily Movie Notification (Note: Reminder is the only feature that i haven't completed to be able to get the certificate)
